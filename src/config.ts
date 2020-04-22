@@ -3,7 +3,7 @@ interface IConfigType {
 }
 
 const config: IConfigType = {
-    urlApi: "https://35.157.205.123:80/",
+    urlApi: "https://35.157.205.123/",
 };
 
 export default config;
