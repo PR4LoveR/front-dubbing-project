@@ -29,6 +29,10 @@ jobs:
    
     - name: Install gh-pages dependencies
       run: npm install --save gh-pages
+    - name: Added git init
+      run: git init
+    - name: added some depen
+      run: git remote add origin https://github.com/PR4LoveR/front-dubbing-project.git
       
     - name: Run build task
       run: npm run deploy
