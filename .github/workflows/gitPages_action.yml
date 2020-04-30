@@ -23,6 +23,9 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: '10.x'
+        key:  
+    - name: Install npm dependencies
+      run: npm install
         
     - name: Run build task
-      run: npm run beploy
+      run: npm run deploy
