@@ -23,9 +23,12 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: '10.x'
-        key:  
+      
     - name: Install npm dependencies
       run: npm install
-        
+   
+    - name: Install gh-pages dependencies
+      run: npm install gh-pages --save-dev
+      
     - name: Run build task
       run: npm run deploy
