@@ -32,6 +32,10 @@ jobs:
     
     - name: Added git init
       run: git init
+    - name: added name
+      run: git config --global user.email "PR4LoveR@markian322@gmail.com"
+    - name: add osme 
+      run: git config --global user.name "PR4LoveR"
    
     - name: Run build task
       run: npm run deploy
