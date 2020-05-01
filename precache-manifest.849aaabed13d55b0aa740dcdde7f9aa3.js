@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/front-dubbing-project/static/media/fa-regular-400.5dd3976c.woff"
   },
   {
-    "revision": "4b94133d369550341c43",
+    "revision": "f354931cf1648f90b100",
     "url": "/front-dubbing-project/static/css/main.bb5ccaa1.chunk.css"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/front-dubbing-project/static/media/fa-regular-400.65779ebc.woff2"
   },
   {
-    "revision": "4b94133d369550341c43",
-    "url": "/front-dubbing-project/static/js/main.4b94133d.chunk.js"
+    "revision": "f354931cf1648f90b100",
+    "url": "/front-dubbing-project/static/js/main.f354931c.chunk.js"
   },
   {
     "revision": "f6c6f6c8cb7784254ad00056f6fbd74e",
@@ -84,23 +84,23 @@ self.__precacheManifest = [
     "url": "/front-dubbing-project/static/media/fa-solid-900.82905d8d.svg"
   },
   {
-    "revision": "a98626e1aef6ceba5dfc1ee7112e235a",
-    "url": "/front-dubbing-project/static/media/Montserrat-Medium.a98626e1.ttf"
+    "revision": "100b38fa184634fc89bd07a84453992c",
+    "url": "/front-dubbing-project/static/media/Montserrat-Light.100b38fa.ttf"
   },
   {
     "revision": "9c46095118380d38f12e67c916b427f9",
     "url": "/front-dubbing-project/static/media/Montserrat-Regular.9c460951.ttf"
   },
   {
-    "revision": "100b38fa184634fc89bd07a84453992c",
-    "url": "/front-dubbing-project/static/media/Montserrat-Light.100b38fa.ttf"
+    "revision": "a98626e1aef6ceba5dfc1ee7112e235a",
+    "url": "/front-dubbing-project/static/media/Montserrat-Medium.a98626e1.ttf"
   },
   {
     "revision": "aed9657141eaff4d5e6f",
     "url": "/front-dubbing-project/static/css/2.ed2e1188.chunk.css"
   },
   {
-    "revision": "bed919195e40b441a8524e30eda7d254",
+    "revision": "fb364bfb7ff4de8f2d264d82859bcc2d",
     "url": "/front-dubbing-project/index.html"
   }
 ];
