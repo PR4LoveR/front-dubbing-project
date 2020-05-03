@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "5dd3976cb5d61e2e561f2a46b916f377",
-    "url": "/front-dubbing-project/static/media/fa-regular-400.5dd3976c.woff"
+    "revision": "65779ebcc35604a25c2ba77309c5b8af",
+    "url": "/front-dubbing-project/static/media/fa-regular-400.65779ebc.woff2"
   },
   {
-    "revision": "86b00bced7de9503c4c4",
+    "revision": "4ba7228955f1eca38112",
     "url": "/front-dubbing-project/static/css/main.bb5ccaa1.chunk.css"
   },
   {
@@ -48,40 +48,40 @@ self.__precacheManifest = [
     "url": "/front-dubbing-project/static/media/fa-regular-400.414ff5da.eot"
   },
   {
-    "revision": "65779ebcc35604a25c2ba77309c5b8af",
-    "url": "/front-dubbing-project/static/media/fa-regular-400.65779ebc.woff2"
+    "revision": "5dd3976cb5d61e2e561f2a46b916f377",
+    "url": "/front-dubbing-project/static/media/fa-regular-400.5dd3976c.woff"
   },
   {
-    "revision": "86b00bced7de9503c4c4",
-    "url": "/front-dubbing-project/static/js/main.86b00bce.chunk.js"
-  },
-  {
-    "revision": "f6c6f6c8cb7784254ad00056f6fbd74e",
-    "url": "/front-dubbing-project/static/media/fa-regular-400.f6c6f6c8.ttf"
+    "revision": "4ba7228955f1eca38112",
+    "url": "/front-dubbing-project/static/js/main.4ba72289.chunk.js"
   },
   {
     "revision": "e7e957c87c454bccaa3bf9fdaa6874f8",
     "url": "/front-dubbing-project/static/media/fa-regular-400.e7e957c8.svg"
   },
   {
-    "revision": "b5596f4d339f99e3d69bc41be78db962",
-    "url": "/front-dubbing-project/static/media/fa-solid-900.b5596f4d.eot"
+    "revision": "f6c6f6c8cb7784254ad00056f6fbd74e",
+    "url": "/front-dubbing-project/static/media/fa-regular-400.f6c6f6c8.ttf"
   },
   {
-    "revision": "462806316fea535a6a57651bc2b000b0",
-    "url": "/front-dubbing-project/static/media/fa-solid-900.46280631.woff2"
+    "revision": "b5596f4d339f99e3d69bc41be78db962",
+    "url": "/front-dubbing-project/static/media/fa-solid-900.b5596f4d.eot"
   },
   {
     "revision": "61969d433bf265b9717a6c357a1e04e4",
     "url": "/front-dubbing-project/static/media/fa-solid-900.61969d43.woff"
   },
   {
-    "revision": "b70cea0339374107969eb53e5b1f603f",
-    "url": "/front-dubbing-project/static/media/fa-solid-900.b70cea03.ttf"
-  },
-  {
     "revision": "82905d8d1c06969df11c8c378e9bdd4c",
     "url": "/front-dubbing-project/static/media/fa-solid-900.82905d8d.svg"
+  },
+  {
+    "revision": "462806316fea535a6a57651bc2b000b0",
+    "url": "/front-dubbing-project/static/media/fa-solid-900.46280631.woff2"
+  },
+  {
+    "revision": "b70cea0339374107969eb53e5b1f603f",
+    "url": "/front-dubbing-project/static/media/fa-solid-900.b70cea03.ttf"
   },
   {
     "revision": "100b38fa184634fc89bd07a84453992c",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/front-dubbing-project/static/css/2.ed2e1188.chunk.css"
   },
   {
-    "revision": "1b9336a2dde51f9fcd2b380decb996cc",
+    "revision": "3fd3888dd33e7fe3908b26908b94a835",
     "url": "/front-dubbing-project/index.html"
   }
 ];

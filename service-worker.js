@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/front-dubbing-project/precache-manifest.1f859385141f0816a0acb544b3c2b49f.js"
+  "/front-dubbing-project/precache-manifest.04b61a97c6359db8183361b2b2c95c0b.js"
 );
 
 workbox.clientsClaim();
