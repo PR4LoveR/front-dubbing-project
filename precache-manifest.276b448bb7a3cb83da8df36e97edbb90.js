@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/front-dubbing-project/static/media/fa-regular-400.5dd3976c.woff"
   },
   {
-    "revision": "72613895a688cbbb382d",
+    "revision": "e61827c7f1dbebd9b9fa",
     "url": "/front-dubbing-project/static/css/main.bb5ccaa1.chunk.css"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/front-dubbing-project/static/media/fa-regular-400.65779ebc.woff2"
   },
   {
-    "revision": "72613895a688cbbb382d",
-    "url": "/front-dubbing-project/static/js/main.72613895.chunk.js"
+    "revision": "e61827c7f1dbebd9b9fa",
+    "url": "/front-dubbing-project/static/js/main.e61827c7.chunk.js"
   },
   {
     "revision": "f6c6f6c8cb7784254ad00056f6fbd74e",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/front-dubbing-project/static/css/2.ed2e1188.chunk.css"
   },
   {
-    "revision": "91f89072629fe53dc21116c8d997d57a",
+    "revision": "220230249503ed2950a570ad9cdcc990",
     "url": "/front-dubbing-project/index.html"
   }
 ];
